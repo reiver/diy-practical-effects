@@ -13,15 +13,15 @@ In this text you will learn how to create **practical effects** yourself.
 Traditionally **practical effects** were (and even still are) used for movies, for TV shows, for TV commercials, and for photography.
 
 Nowadays (whether acknowledged or not) **practical effects** are (also) created by:
-* articulated comic book art (ACBA) artists,
 * aquarium hardscapes,
+* articulated comic book art (ACBA) artists,
 * diorama creators,
 * paludarium hardscapes,
+* tabletop RPG terrain builders,
+* tabletop wargaming terrain builders,
 * terrarium hardscapes,
 * toy photographers,
-* vivarium hardscapes,
-* tabletop RPG terrain builders,
-* tabletop wargaming terrain builders.
+* vivarium hardscapes.
 
 ## Table of Contents
 * Materials
