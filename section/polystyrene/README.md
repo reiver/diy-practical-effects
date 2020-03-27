@@ -5,7 +5,7 @@
 In fact, there are different types of **polystyrene** that is used.
 
 These include:
-* expanded polystyrene (EPS)
+* extruded polystyrene
 * polystyrene sheets
 
 
