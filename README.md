@@ -23,6 +23,9 @@ Nowadays (whether acknowledged or not) **practical effects** are (also) created 
 * toy photographers,
 * vivarium hardscapes.
 
+What this means for you is that, if you are interested in learning how to create **practical effects** yourself,
+then there can be people in each of those communities that you can learn from.
+
 ## Table of Contents
 * Materials
   * [Polystyrene](section/polystyrene/README.md)
