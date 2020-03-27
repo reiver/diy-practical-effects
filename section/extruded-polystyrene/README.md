@@ -16,5 +16,16 @@ they are different materials with some important differences between them.
 
 **You want _extruded polystyrene_ (XPS)**.
 
+## Where To Buy Extruded Polystyrene
+
+Although **extruded polystyrene** (**XPS**) is useful for **practical effects** it is also useful as a **building construction material**.
+
+I.e., **extruded polystyrene** (**XPS**) is used when creating houses, apartment buildings, townhouses, etc.
+
+When **extruded polystyrene** (**XPS**) is used as a **building construction material**, it tends to be used as a **thermal insulation** material.
+I.e., it is used to help keep the heat in your home, and help lower your heating bills.
+
+What does this mean for using **extruded polystyrene** (**XPS**)‽ — it means that< **an affordable place to purchase _extruded polystyrene_ (_XPS_) is at stores that selling home & building construction materials**.
+
 ## See Also
 * [Basics: What is that foam you use and where do I get it? (Black Magic Craft Episode 028)](https://youtu.be/0_vV6X3iHs4)
