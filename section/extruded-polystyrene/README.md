@@ -25,7 +25,7 @@ I.e., **extruded polystyrene** (**XPS**) is used when creating houses, apartment
 When **extruded polystyrene** (**XPS**) is used as a **building construction material**, it tends to be used as a **thermal insulation** material.
 I.e., it is used to help keep the heat in your home, and help lower your heating bills.
 
-What does this mean for using **extruded polystyrene** (**XPS**)‽ — it means that< **an affordable place to purchase _extruded polystyrene_ (_XPS_) is at stores that selling home & building construction materials**.
+What does this mean for using **extruded polystyrene** (**XPS**)‽ — it means that, **an affordable place to purchase _extruded polystyrene_ (_XPS_) is at stores that selling home & building construction materials**.
 
 ## See Also
 * [Basics: What is that foam you use and where do I get it? (Black Magic Craft Episode 028)](https://youtu.be/0_vV6X3iHs4)
