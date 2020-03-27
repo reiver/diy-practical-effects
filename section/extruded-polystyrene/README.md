@@ -27,5 +27,9 @@ I.e., it is used to help keep the heat in your home, and help lower your heating
 
 What does this mean for using **extruded polystyrene** (**XPS**)‽ — it means that, **an affordable place to purchase _extruded polystyrene_ (_XPS_) is at stores that selling home & building construction materials**.
 
+**In fact, sometimes the only place you can (in a practical sense) purchase _extruded polystyrene_ (_XPS_) is at stores that selling home & building construction materials.**
+
+Larger sheets of _extruded polystyrene_ (_XPS_) tends to be less expensive in the long run than smaller sheets (on a per unit area basis).
+
 ## See Also
 * [Basics: What is that foam you use and where do I get it? (Black Magic Craft Episode 028)](https://youtu.be/0_vV6X3iHs4)
