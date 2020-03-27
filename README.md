@@ -28,6 +28,10 @@ then there can be people in each of those communities that you can learn from.
 
 ## Table of Contents
 * Materials
+  * Concrete
   * [Polystyrene](section/polystyrene/README.md)
     * [Extruded Polystyrene](section/extruded-polystyrene/README.md) ([XPS](section/extruded-polystyrene/README.md))
     * [Polystyrene Sheets](section/polystyrene-sheets/README.md)
+  * Resin
+  * Steel
+    * Steel Sheet Metal
