@@ -15,3 +15,6 @@ Although both **expanded polystyrene** (**EPS**), and **extruded polystyrene** (
 they are different materials with some important differences between them.
 
 **You want _extruded polystyrene_ (XPS)**.
+
+## See Also
+* [Basics: What is that foam you use and where do I get it? (Black Magic Craft Episode 028)](https://youtu.be/0_vV6X3iHs4)
