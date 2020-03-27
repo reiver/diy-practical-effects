@@ -1,4 +1,4 @@
-# Extruded Polystyrene
+# Extruded Polystyrene ([DIY Practical Effects](../../README.md))
 
 **Extruded Polystyrene** a form of [polystyrene](../polystyrene/README.md).
 
