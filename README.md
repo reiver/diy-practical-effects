@@ -8,3 +8,6 @@ In this text you will learn how to create **practical effects** yourself.
 > Practical Effects (n.) short for _“practical special effects”_;
 > a type of _special effects_ (SFX) created physically (without the use of _computer generated imagery_ (CGI) or other _post-product effects_).
 
+## Table of Contents
+* Materials
+  * [Polystyrene](section/polystyrene/README.md)
