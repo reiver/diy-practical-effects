@@ -6,4 +6,4 @@ In fact, there are different types of **polystyrene** that are used.
 
 These include:
 * [extruded polystyrene](../extruded-polystyrene/README.md)
-* polystyrene sheets
+* [polystyrene sheets](../polystyrene-sheets/README.md)
