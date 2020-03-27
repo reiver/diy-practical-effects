@@ -1,4 +1,4 @@
-# Polystyrene
+# Polystyrene ([DIY Practical Effects](../../README.md))
 
 **Polystyrene** is a material commonly used when creating **practical effects**.
 
