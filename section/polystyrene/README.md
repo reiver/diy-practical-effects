@@ -5,5 +5,5 @@
 In fact, there are different types of **polystyrene** that is used.
 
 These include:
-* extruded polystyrene
+* [extruded polystyrene](../extruded-polystyrene/README.md)
 * polystyrene sheets

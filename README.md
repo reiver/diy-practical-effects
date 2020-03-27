@@ -11,3 +11,4 @@ In this text you will learn how to create **practical effects** yourself.
 ## Table of Contents
 * Materials
   * [Polystyrene](section/polystyrene/README.md)
+    * [Extruded Polystyrene](section/extruded-polystyrene/README.md) ([XPS](section/extruded-polystyrene/README.md))
