@@ -11,7 +11,7 @@ I.e., _eXtruded PolyStyene_ = XPS .
 
 **WARNING**: do not confuse **EPS** — which is an abbreviation for **expanded polystyrene** — with **extruded polystyrene** (**XPS**).
 
-Although both **expanded polystyrene** (**EPS**), and **extruded polystyrene** (**XPS**) are forms of [polystyrene](../polystyrene/README.md) and even have _some_ similarities between the,
+Although both **expanded polystyrene** (**EPS**), and **extruded polystyrene** (**XPS**) are forms of [polystyrene](../polystyrene/README.md) and even have _some_ similarities between them,
 they are different materials with some important differences between them.
 
 **You want _extruded polystyrene_ (XPS)**.
