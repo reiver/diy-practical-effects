@@ -7,5 +7,3 @@ In fact, there are different types of **polystyrene** that is used.
 These include:
 * extruded polystyrene
 * polystyrene sheets
-
-
