@@ -28,6 +28,7 @@ What this means for you is that, if you are interested in learning how to create
 then there can be people in each of those communities that you can learn from.
 
 ## Index
+* [Dioramas](section/dioramas/README.md)
 * Materials
   * [Concrete](section/concrete/README.md)
   * [Polystyrene](section/polystyrene/README.md)
