@@ -17,8 +17,9 @@ Nowadays (whether acknowledged or not) **practical effects** are (also) created 
 * articulated comic book art (ACBA) artists,
 * diorama creators,
 * paludarium hardscapes,
-* tabletop RPG terrain builders,
-* tabletop wargaming terrain builders,
+* kit bashers,
+* scratch builders,
+* tabletop gaming terrain builders,
 * terrarium hardscapes,
 * toy photographers,
 * vivarium hardscapes.
