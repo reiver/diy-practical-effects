@@ -30,6 +30,7 @@ then there can be people in each of those communities that you can learn from.
 ## Index
 * Products
   * [Dioramas](section/dioramas/README.md)
+  * [Stands](section/stands/README.md)
 * Materials
   * [Concrete](section/concrete/README.md)
   * [Polystyrene](section/polystyrene/README.md)
