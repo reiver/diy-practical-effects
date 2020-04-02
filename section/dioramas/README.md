@@ -28,3 +28,4 @@ Here are some example dioramas:
 
 * [069. Mechbay Dios #17 - My First Diorama Build](https://youtu.be/xHHaGWcgQYk)
 * [001. Mechbay Dios #1 - Hydra Lab and Brainwashing Room](https://youtu.be/WiT0TlngmIU)
+* [ALIEN 1979 miniature diorama for Neca Toys action figures TUTORIAL / DIY](https://youtu.be/MHoT3FvcP7I)
