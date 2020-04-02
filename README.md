@@ -47,6 +47,7 @@ then there can be people in each of those communities that you can learn from.
 * Techniques
   * Airbrush Painting
   * Dry Brushing
+  * [HDPE Recycling](section/hdpe-recycling/README.md)
   * Lost Foam Casting
   * Lost Wax Casting
   * Weathering
