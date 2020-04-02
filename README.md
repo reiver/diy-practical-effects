@@ -41,3 +41,7 @@ then there can be people in each of those communities that you can learn from.
   * Resin
   * Steel
     * Steel Sheet Metal
+* Techniques
+  * Airbrush Painting
+  * Dry
+  * Weathering
