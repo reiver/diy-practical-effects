@@ -44,5 +44,7 @@ then there can be people in each of those communities that you can learn from.
   * [Stands](section/stands/README.md)
 * Techniques
   * Airbrush Painting
-  * Dry
+  * Dry Brushing
+  * Lost Foam Casting
+  * Lost Wax Casting
   * Weathering
