@@ -26,3 +26,5 @@ Here are some references on **recycling HDPE**:
 * [How To Recycle Plastic Bottles Into A Park Bench | Made By Destruction](https://youtu.be/IblINRd3Xao)
 * [Plastic Plate Press Process - MMID Foundation - Mark Bachrach](https://youtu.be/YyfputUXCD0)
 * [Recycling milk jugs into ballistic plates](https://youtu.be/wq9aghT14CA)
+* [Recycled Milk Jug Mallet with Scrap Oak Handle - 25](https://youtu.be/jdKmq7Kjt0I)
+* [Precious Plastic - create things from plastic](https://youtu.be/VdUkOjIP0Ok)
