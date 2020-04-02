@@ -28,10 +28,6 @@ What this means for you is that, if you are interested in learning how to create
 then there can be people in each of those communities that you can learn from.
 
 ## Index
-* Products
-  * Armatures
-  * [Dioramas](section/dioramas/README.md)
-  * [Stands](section/stands/README.md)
 * Materials
   * [Concrete](section/concrete/README.md)
   * [Polystyrene](section/polystyrene/README.md)
@@ -41,6 +37,10 @@ then there can be people in each of those communities that you can learn from.
   * Resin
   * Steel
     * Steel Sheet Metal
+* Products
+  * Armatures
+  * [Dioramas](section/dioramas/README.md)
+  * [Stands](section/stands/README.md)
 * Techniques
   * Airbrush Painting
   * Dry
