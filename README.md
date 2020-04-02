@@ -49,5 +49,5 @@ then there can be people in each of those communities that you can learn from.
   * Dry Brushing
   * [HDPE Recycling](section/hdpe-recycling/README.md)
   * Lost Foam Casting
-  * Lost Wax Casting
+  * [Lost Wax Casting](section/lost-wax-casting/README.md)
   * Weathering
