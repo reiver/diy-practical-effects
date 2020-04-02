@@ -29,6 +29,7 @@ then there can be people in each of those communities that you can learn from.
 
 ## Index
 * Materials
+  * Cheese Cloth
   * [Concrete](section/concrete/README.md)
   * [Polystyrene](section/polystyrene/README.md)
     * [Extruded Polystyrene](section/extruded-polystyrene/README.md) ([XPS](section/extruded-polystyrene/README.md))
