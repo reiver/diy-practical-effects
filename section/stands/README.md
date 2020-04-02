@@ -8,3 +8,4 @@ Here are some references for creating **stands**:
 
 * [Custom Action Figure Flight Stands for Marvel Legends, DC Universe & More!](https://youtu.be/Rs6Vo9M4ABQ)
 * [Marvel Legends Stands How To Make Them](https://youtu.be/DNgUmWgTl1E)
+* [Custom Figure Display Stand Tutorial](https://youtu.be/lOb4iWXuMiU)
