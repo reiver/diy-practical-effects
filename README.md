@@ -42,6 +42,7 @@ then there can be people in each of those communities that you can learn from.
   * Steel
     * Steel Sheet Metal
 * Products
+  * Airbrush Cleaner
   * Armatures
   * [Dioramas](section/dioramas/README.md)
   * [Stands](section/stands/README.md)
