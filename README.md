@@ -31,6 +31,7 @@ then there can be people in each of those communities that you can learn from.
 * Materials
   * Cheese Cloth
   * [Concrete](section/concrete/README.md)
+  * Methyl Ethyl Ketone (MEK)
   * Pewter
   * Polyethylene
     * High-Density Polyethylene (HDPE)
