@@ -33,3 +33,4 @@ Larger sheets of _extruded polystyrene_ (_XPS_) tends to be less expensive in th
 
 ## See Also
 * [Basics: What is that foam you use and where do I get it? (Black Magic Craft Episode 028)](https://youtu.be/0_vV6X3iHs4)
+* [052. Tutorial - What Foam To Use?](https://youtu.be/RctXQLBYvqY)
