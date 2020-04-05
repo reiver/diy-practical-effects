@@ -14,6 +14,7 @@ There are different types of castings.
 
 Some of the different types include:
 
+* lost foam casting
 * [lost wax casting](../lost-wax-casting/README.md)
 
 ## References
