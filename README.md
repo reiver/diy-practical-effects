@@ -48,8 +48,9 @@ then there can be people in each of those communities that you can learn from.
   * [Stands](section/stands/README.md)
 * Techniques
   * Airbrush Painting
+  * [Casting](section/casting/README.md)
+    * [Lost Wax Casting](section/lost-wax-casting/README.md)
   * Dry Brushing
   * [HDPE Recycling](section/hdpe-recycling/README.md)
   * Lost Foam Casting
-  * [Lost Wax Casting](section/lost-wax-casting/README.md)
   * Weathering
