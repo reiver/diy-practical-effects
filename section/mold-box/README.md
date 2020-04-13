@@ -12,7 +12,7 @@ There are different types of **mold boxes**.
 
 Some of the different types include:
 
-* [Don Wood Tapered Mold Box](section/mold-box-don-wood-tapered/README.md)
+* [Don Wood Tapered Mold Box](../mold-box-don-wood-tapered/README.md)
 * Foam Core Board Mold Box
 * Lego Mold Box
 * Plastic Cup Mold Box
