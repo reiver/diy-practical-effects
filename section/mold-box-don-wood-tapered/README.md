@@ -15,4 +15,4 @@ When [Paul Hamler](https://www.youtube.com/channel/UC3VmPL7Gq4bGEYVOZ9aGB5g) sho
 In fact, the tapering of the **Don Wood Tapered Mold Boxes** is not only used to securely hold the mold (when casting), but also used to apply even pressure on the mold to reduce, and even prevent _flashing_.
 
 ## See Also
-* [Don Wood Box](https://youtu.be/sMf-q1K4XNM?t=920)
+* [Paul Hamler shows Don Wood Mold Boxes he created](https://youtu.be/sMf-q1K4XNM?t=920)
