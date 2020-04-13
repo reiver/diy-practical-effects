@@ -1,6 +1,6 @@
 # Mold Box ([DIY Practical Effects](../../README.md))
 
-**Mold Boxes** are a tool used when **molding** & [casting](../section/casting/README.md).
+**Mold Boxes** are a tool used when **molding** & [casting](../casting/README.md).
 
 A **mold box** are used when creating a mold.
 
