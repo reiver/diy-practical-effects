@@ -18,6 +18,9 @@ Some of the different types include:
 * lost foam casting
 * [lost wax casting](../lost-wax-casting/README.md)
 
+## Tools
+* [mold box](../mold-box/README.md)
+
 ## References
 
 Here are some references on **casting**:
