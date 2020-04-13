@@ -27,4 +27,4 @@ Different types of **mold boxes** have different types of characteristics:
 
 * is the mold box **reusable**, or is it **single-use**
 * is the mold box (also) used to hold the mold when casting (or is it only used when creating the mold)
-* can the mold box be used to (also) create two-piece molds (or only just one-piece molds)
+* can the mold box be used to (also) create two-part molds (or only just one-part molds)
