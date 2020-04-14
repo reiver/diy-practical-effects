@@ -26,3 +26,4 @@ More about LNS Technologies' injection molding machines:
 Here are some other commercially available tabletop injection molding machines:
 
 * [Galomb (injectionmolder.net)](https://www.injectionmolder.net/)
+  * [Home Injection Molding (using Galomb injection molding machine)](https://www.instructables.com/id/Home-Injection-Molding/)
