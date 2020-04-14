@@ -20,3 +20,9 @@ More about LNS Technologies' injection molding machines:
 * [@techkis — LNS Technologies on Twitter](https://twitter.com/techkits)
 * [techkits — LNS Technologies on YouTube](https://www.youtube.com/channel/UCPTqysc4ojrWqedYJ_5rKdw)
 * [LNS Technologies' Kickstarter campaign](https://www.kickstarter.com/projects/210417487/bench-model-plastic-injection-machine)
+
+## Other Tabletop Injection Molding Machines
+
+Here are some other commercially available tabletop injection molding machines:
+
+* [Galomb (injectionmolder.net)](https://www.injectionmolder.net/)
