@@ -60,3 +60,6 @@ Here are some references:
 * [Bench-top injection moulder build](https://youtu.be/nefLfhUaODM)
 * [Make Your Own Injection Molding Machine](https://makezine.com/projects/make-41-tinkering-toys/diy-injection-molding/)
 * [Secrets of Building a Plastic Injection Molding Machine](https://www.goodreads.com/book/show/1351973.Secrets_of_Building_a_Plastic_Injection_Molding_Machine) by Vincent R. Gingery
+
+## See Also
+* [Plastic Injection Molding](https://youtu.be/RMjtmsr3CqA) by Bill Hammack
