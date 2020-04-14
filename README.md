@@ -47,7 +47,7 @@ then there can be people in each of those communities that you can learn from.
   * [Stands](section/stands/README.md)
 * Techniques
   * [Casting](section/casting/README.md)
-    * Injection Molding
+    * [Injection Molding](section/injection-molding/README.md)
     * Lost Foam Casting
     * [Lost Wax Casting](section/lost-wax-casting/README.md)
   * [HDPE Recycling](section/hdpe-recycling/README.md)
