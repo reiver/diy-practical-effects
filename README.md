@@ -50,6 +50,7 @@ then there can be people in each of those communities that you can learn from.
     * [Injection Molding](section/injection-molding/README.md)
     * Lost Foam Casting
     * [Lost Wax Casting](section/lost-wax-casting/README.md)
+  * [Coloring Resin](section/coloring-resin/README.md)
   * [HDPE Recycling](section/hdpe-recycling/README.md)
   * Painting
     * Airbrush Painting
